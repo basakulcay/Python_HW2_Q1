@@ -44,6 +44,7 @@ def main():
                 count+=1
                 print('count:',count)
                 again=str(input(''))
+                break
             
             else:
                 print('You entered an invalid value')
